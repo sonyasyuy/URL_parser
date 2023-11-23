@@ -1,0 +1,3 @@
+/Users/syuy/CLionProjects/algosi/cmake-build-debug/CMakeFiles/algosi.dir
+/Users/syuy/CLionProjects/algosi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syuy/CLionProjects/algosi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
